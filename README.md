@@ -40,6 +40,6 @@ Simpan : CTRL + X lalu tekan Y
 
 Untuk menjalankan :
 
-``
+```
 node index.js
-``
+```
