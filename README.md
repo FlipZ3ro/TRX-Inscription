@@ -35,3 +35,10 @@ npm install tronweb
 nano index.js
 ```
 <img  height="auto" src="https://i.imgur.com/NZScHhU.jpeg">
+
+Simpan : CTRL + X lalu tekan Y
+
+Untuk menjalankan :
+``
+node index.js
+``
