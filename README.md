@@ -29,7 +29,7 @@ cd TRX-Inscription
 npm install tronweb
 ```
 
-🔘 Tambahkan Private Keys di index.js
+### 🔘Tambahkan Private Keys di index.js
 
 ```
 nano index.js
