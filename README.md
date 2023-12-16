@@ -34,4 +34,4 @@ npm install tronweb
 ```
 nano index.js
 ```
-<img  height="auto" src="https://imgur.com/a/5ugtuii.jpg">
+<img  height="auto" src="https://imgur.com/a/5ugtuii">
