@@ -28,7 +28,7 @@ const rl = readline.createInterface({
     console.log(`
   +-----------------------------------------+
               TRX MINT INSCRIPTION
-               Edit By : arapzz
+                Edit By : arapzz
   +-----------------------------------------+
       `)
     const numTransactions = await promptUser();
